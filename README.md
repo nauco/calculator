@@ -7,6 +7,10 @@ c++ calculator
   3. sine             ( double type )
   4. cosine           ( double type )
   5. differentiation  (of double type function )
-    1. differentiate sine 2. differentiate cosine 3. differentiate tangent
+    1. differentiate sine
+    2. differentiate cosine
+    3. differentiate tangent
   6. integration      (of double type function )  
-    1. intergrate sine  2. intergrate cosine  3. intergrate tangent
+    1. intergrate sine
+    2. intergrate cosine
+    3. intergrate tangent
